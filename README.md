@@ -25,4 +25,4 @@ Over the past year, I’ve been actively developing a variety of web application
 
 I’d be delighted to connect and share more about my experience. You can find my additional contact details below. Feel free to follow me or share your recommendations regarding my skills!
 
-[valerygusev.dev](valerygusev.dev)  |  [LinkedIn](https://www.linkedin.com/in/valery-gusev-77a427248/)  |  Email: valerygusev2022@gmail.com
+[valerygusev.dev](https://valerygusev.dev/home)  |  [LinkedIn](https://www.linkedin.com/in/valery-gusev-77a427248/)  |  Email: valerygusev2022@gmail.com
